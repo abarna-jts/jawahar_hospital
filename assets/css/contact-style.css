@@ -1,0 +1,111 @@
+.contactform{
+	padding: 80px 0 100px;
+}
+.cntleft h3{
+    color: #0d1067;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
+.cntleft h4{
+    color: #0d1067;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}
+.cntleft p, .cntleft a{
+	color: #222;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 26px;
+    margin: 0 !important;
+}
+.cntwicon{
+	    background: #ff8600;
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.cntwicon img{
+	    width: 26px;
+}
+.cntlist-wrap{
+	    display: flex;
+    align-items: flex-start;
+    margin-bottom: 50px;
+}
+.cntwdesc{
+	padding-left: 20px;
+}
+.cntformwrapper label{
+	font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.cntformwrapper .form-control{
+	height: 54px;
+    background: #fbfbfb;
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+}
+.cntformwrapper textarea.form-control{
+	height: 90px;
+	resize: none;
+}
+.cntformwrapper{
+	box-shadow: 0px 30px 60px 0px rgb(0 0 0 / 10%);
+    padding: 50px;
+    background: #f2f3fa;
+}
+.cntleft{
+	padding: 50px;
+    background: #f2f3fa;
+}
+.cntformwrapper h3{
+    color: #0d1067;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
+.cntformwrapper .btn-primary {
+        color: #fff;
+    background-color: #ff8600;
+    border-color: #ff8600;
+    display: inline-block;
+    width: 160px !important;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 20px;
+}
+
+@media(max-width:  767.98px){
+    .contactform {
+    padding: 50px 0 60px;
+}
+.cntleft,.cntformwrapper {
+    padding: 25px;
+    }
+    .cntleft h3,.cntformwrapper h3{
+            font-size: 26px;
+                margin-bottom: 20px;
+    }
+    .cntleft h4{
+            font-size: 18px;
+    }
+    .cntleft p, .cntleft a{
+            font-size: 15px;
+                line-height: 20px;
+    }
+    .cntwdesc {
+    padding-left: 10px;
+        max-width: 80%;
+}
+}
