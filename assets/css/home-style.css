@@ -178,6 +178,7 @@
     font-size: 15px;
     font-weight: 500;
     line-height: 32px;
+    text-align: justify;
 }
 .sec-decoration{
 	position: relative;
@@ -302,7 +303,7 @@ color: #383838;
 }
 .numright span.count.percent{
 	color: #ff8600;
-	font-size: 22px;
+	font-size: 21px;
 	font-weight: 700;
 	display: block;
 	margin-bottom: 6px;
@@ -637,7 +638,7 @@ content: "";
 	    display: flex;
     align-items: center;
     text-align: center;
-    padding: 20px 30px;
+    padding: 20px ;
     justify-content: center;
 }
 
