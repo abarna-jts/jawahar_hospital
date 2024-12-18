@@ -81,43 +81,42 @@
                         <div class="menu-subs menu-mega menu-column-4">
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
-                                 <li><a href="javascript:;">Paediatrician</a></li>
-                                 <li><a href="javascript:;">Pulmonologist</a></li>
-                                 <li><a href="javascript:;">Anaesthesia</a></li>
-                                 <li><a href="javascript:;"> Ortho Specialist</a></li>
-                                 <li><a href="javascript:;">Cardiologist</a></li>
+                                 <li><a href="paediatrician.php">Paediatrician</a></li>
+                                 <li><a href="pulmonology.php">Pulmonologist</a></li>
+                                 <li><a href="anaesthesia.php">Anaesthesia</a></li>
+                                 <li><a href="ortho.php"> Ortho Specialist</a></li>
+                                 <li><a href="cardiologist.php">Cardiologist</a></li>
                               </ul>
                            </div>
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
-                                 <li><a href="javascript:;" style="font-size: 13px;">Diabetologist</a>
+                                 <li><a href="diabetology.php" style="font-size: 13px;">Diabetologist</a>
                                  </li>
-                                 <li><a href="javascript:;">Child Specialist</a></li>
-                                 <li><a href="javascript:;">Neurologists</a></li>
-                                 <li><a href="javascript:;">General Surgeries</a></li>
-                                 <li><a href="javascript:;">ENT Surgeons</a></li>
+                                 <li><a href="child_specialist.php">Child Specialist</a></li>
+                                 <li><a href="Neurologist.php">Neurologists</a></li>
+                                 <li><a href="general_surgeries.php">General Surgeries</a></li>
+                                 <li><a href="joint-replacement.php">Joint Replacement</a></li>
                               </ul>
                            </div>
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
-                                 <li><a href="javascript:;">Joint
-                                       Replacement</a></li>
-                                 <li><a href="javascript:;">Nephrologist</a></li>
-                                 <li><a href="javascript:;">Obstetrics &amp; Gynaecology</a>
+                                 
+                                 <li><a href="nephorologist.php">Nephrologist</a></li>
+                                 <li><a href="obstetrics.php">Obstetrics &amp; Gynaecology</a>
                                  </li>
-                                 <li><a href="javascript:;">Physiotherapist</a></li>
-                                 <li><a href="javascript:;"
+                                 <li><a href="physiotherapist.php">Physiotherapist</a></li>
+                                 <li><a href="oral_maxillo.php"
                                        style="font-size: 13px;">Oral &amp; Maxillo Facial Surgeries</a></li>
+                                       <li><a href="pulmonology_services.php">Pulmonology Services</a></li>
 
                               </ul>
                            </div>
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
-                                 <li><a href="javascript:;">Pulmonology Services</a></li>
-                                 <li><a href="javascript:;">Gastroenterologiest</a></li>
-                                 <li><a href="javascript:;">Trauma</a></li>
-                                 <li><a href="javascript:;">Kidney Transplant Surgeons</a></li>
-                                 <li><a href="javascript:;">FAQ</a></li>
+                                 
+                                 <li><a href="gastroenterologist.php">Gastroenterologiest</a></li>
+                                 <li><a href="trauma_specialist.php">Trauma</a></li>
+                                 <li><a href="kidney_transplant.php">Kidney Transplant Surgeons</a></li>
 
                               </ul>
                            </div>
@@ -185,15 +184,15 @@
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
 
-                                 <li> <a href="javascript:;">Accident / Emergency Care</a> </li>
+                                 <li> <a href="accident_emergency.php">Accident / Emergency Care</a> </li>
 
-                                 <li><a href="javascript:;">Twin Operation Theatre</a></li>
+                                 <li><a href="twin_operation.php">Twin Operation Theatre</a></li>
 
-                                 <li><a href="javascript:;">24 hrs Fracture Clinic</a></li>
+                                 <li><a href="fracture_clinic.php">24 hrs Fracture Clinic</a></li>
 
-                                 <li><a href="javascript:;">Laproscopic-key Hole Surgeries</a></li>
+                                 <li><a href="laproscopic.php">Laproscopic-key Hole Surgeries</a></li>
 
-                                 <li><a href="javascript:;">Arthroscopy Surgeries</a></li>
+                                 <li><a href="arthroscopy_surgeries.php">Arthroscopy Surgeries</a></li>
 
 
 
@@ -201,15 +200,15 @@
                            </div>
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
-                                 <li><a href="javascript:;">Head Injury Care/Poly Trauma</a></li>
+                                 <li><a href="Trauma.php">Head Injury Care/Poly Trauma</a></li>
 
-                                 <li><a href="javascript:;">Laser Kidney Stone Center</a></li>
+                                 <li><a href="kidney_stone.php">Laser Kidney Stone Center</a></li>
 
-                                 <li><a href="javascript:;">Endoscopic Spinal Surgeries</a></li>
+                                 <li><a href="endoscopic.php">Endoscopic Spinal Surgeries</a></li>
 
-                                 <li><a href="javascript:;">Joint Replacement Surgeries</a></li>
+                                 <li><a href="joint_replacement.php">Joint Replacement Surgeries</a></li>
 
-                                 <li><a href="javascript:;">Intramedullary nailing</a></li>
+                                 <li><a href="intramedullary_nailing.php">Intramedullary nailing</a></li>
 
 
 

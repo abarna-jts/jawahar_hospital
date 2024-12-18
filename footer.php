@@ -32,18 +32,18 @@
             <div class="col-md-3">
                <h3 class="ft-titile mb-4">Specialties</h3>
                <ul class="ft_menulist">
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Paediatrician</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Pulmonologist</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Anaesthesia</a>
+                  <li><a href="paediatrician.php"><img src="assets/images/light-blue-next-arrow.svg"> Paediatrician</a></li>
+                  <li><a href="pulmonology.php"><img src="assets/images/light-blue-next-arrow.svg"> Pulmonologist</a></li>
+                  <li><a href="anaesthesia.php"><img src="assets/images/light-blue-next-arrow.svg"> Anaesthesia</a>
                   </li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Ortho Specialist
+                  <li><a href="ortho.php"><img src="assets/images/light-blue-next-arrow.svg"> Ortho Specialist
                         Replacement</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Cardiologist
+                  <li><a href="cardiologist.php"><img src="assets/images/light-blue-next-arrow.svg"> Cardiologist
                         Replacement</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Diabetologist
+                  <li><a href="diabetology.php"><img src="assets/images/light-blue-next-arrow.svg"> Diabetologist
                         Services</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Child Specialist</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Neurologists</a></li>
+                  <li><a href="child_specialist.php"><img src="assets/images/light-blue-next-arrow.svg"> Child Specialist</a></li>
+                  <li><a href="Neurologist.php"><img src="assets/images/light-blue-next-arrow.svg"> Neurologists</a></li>
                </ul>
             </div>
             <div class="col-md-3">
@@ -52,42 +52,41 @@
                   <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg">
                      Cosmetic-surgery</a></li>
                   <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> ENT Surgeons</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Nephrologist</a>
+                  <li><a href="nephorologist.php"><img src="assets/images/light-blue-next-arrow.svg"> Nephrologist</a>
                   </li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Obstetrics &amp; Gynaecology</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Physiotherapist</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Gastroenterologiest
+                  <li><a href="obstetrics.php"><img src="assets/images/light-blue-next-arrow.svg"> Obstetrics &amp; Gynaecology</a></li>
+                  <li><a href="physiotherapist.php"><img src="assets/images/light-blue-next-arrow.svg"> Physiotherapist</a></li>
+                  <li><a href="gastroenterologist.php"><img src="assets/images/light-blue-next-arrow.svg"> Gastroenterologiest
                         Clinic</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Trauma
+                  <li><a href="trauma_specialist.php"><img src="assets/images/light-blue-next-arrow.svg"> Trauma
                         Management</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Kidney Transplant Surgeons</a>
+                  <li><a href="kidney_transplant.php"><img src="assets/images/light-blue-next-arrow.svg"> Kidney Transplant Surgeons</a>
                   </li>
                </ul>
             </div>
             <div class="col-md-3">
                <h3 class="ft-titile mb-4">Facilities</h3>
                <ul class="ft_menulist">
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Digital X-Ray</a>
+                  <li><a href="digital_x-ray.php"><img src="assets/images/light-blue-next-arrow.svg"> Digital X-Ray</a>
                   </li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Computerised Lab</a>
+                  <li><a href="lab.php"><img src="assets/images/light-blue-next-arrow.svg"> Computerised Lab</a>
                   </li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Echo/ECG</a>
+                  <li><a href="ecg.php"><img src="assets/images/light-blue-next-arrow.svg"> Echo/ECG</a>
                   </li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Ultrasonogram</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Doppler Studies</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> UCG Special Studies</a></li>
+                  <li><a href="Ultrasonogram.php"><img src="assets/images/light-blue-next-arrow.svg"> Ultrasonogram</a></li>
+                  <li><a href="doppler_studies.php"><img src="assets/images/light-blue-next-arrow.svg"> Doppler Studies</a></li>
+                  <li><a href="ucg.php"><img src="assets/images/light-blue-next-arrow.svg"> UCG Special Studies</a></li>
                  
                </ul>
             </div>
             <div class="col-md-3">
                <h3 class="ft-titile mb-4">Quick Links</h3>
                <ul class="ft_menulist">
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Patient Guide</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Insurance Tie-ups</a>
+                  <li><a href="#"><img src="assets/images/light-blue-next-arrow.svg"> Patient Guide</a></li>
+                  <li><a href="insurance-tie-ups.php"><img src="assets/images/light-blue-next-arrow.svg"> Insurance Tie-ups</a>
                   </li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Camp Details</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> News</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> Contact Info</a></li>
+                  <li><a href="camp_info.php"><img src="assets/images/light-blue-next-arrow.svg"> Camp Details</a></li>
+                  <li><a href="contact.php"><img src="assets/images/light-blue-next-arrow.svg"> Contact Info</a></li>
                </ul>
             </div>
          </div>
@@ -129,11 +128,11 @@
          <div class="row mt-4">
             <div class="col-md-12">
                <ul class="ft_menulist with-inline-block">
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> ABOUT JAWAHAR</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> PATIENT CARE</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> OUR DOCTORS</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> CAREER US</a></li>
-                  <li><a href="javascript:;"><img src="assets/images/light-blue-next-arrow.svg"> CONTACT US</a>
+                  <li><a href="multi_speciality.php"><img src="assets/images/light-blue-next-arrow.svg"> ABOUT JAWAHAR</a></li>
+                  <li><a href="insurance-tie-ups.php"><img src="assets/images/light-blue-next-arrow.svg"> PATIENT CARE</a></li>
+                  <li><a href="doctors.php"><img src="assets/images/light-blue-next-arrow.svg"> OUR DOCTORS</a></li>
+                  <li><a href="career.php"><img src="assets/images/light-blue-next-arrow.svg"> CAREER US</a></li>
+                  <li><a href="contact.php"><img src="assets/images/light-blue-next-arrow.svg"> CONTACT US</a>
                   </li>
                </ul>
             </div>

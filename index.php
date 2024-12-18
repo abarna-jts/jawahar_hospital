@@ -28,7 +28,7 @@
                   <div class="cover">
                      <div class="banner-text">
                         <h2>Specialist for Neurologist, Diabetes</h2>
-                        <a href="javascript:;" class="btn-style1 slide_from_left">Consult our
+                        <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our
                            experts</a>
                      </div>
                   </div>
@@ -38,7 +38,7 @@
                   <div class="cover">
                      <div class="banner-text">
                         <h2>Dengue Fever Treatment </h2>
-                        <a href="tel:044-66787878" class="btn-style1 slide_from_left">Consult our experts</a>
+                        <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our experts</a>
                      </div>
                   </div>
                </div>
@@ -47,7 +47,7 @@
                   <div class="cover">
                      <div class="banner-text">
                         <h2>Knee and Hip replacement</h2>
-                        <a href="tel:044-66787878" class="btn-style1 slide_from_left">Consult our experts</a>
+                        <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our experts</a>
                      </div>
                   </div>
                </div>
@@ -81,7 +81,7 @@
                   <p>At the heart of our hospital is Dr. Jawahar's renowned Chennai clinic, specializing in ortho-spinal care.
                       Our dedicated team of experienced physicians and compassionate staff work tirelessly to ensure 
                       personalized and gentle care tailored to each patient's needs.</p>
-                  <a class="read-more-button blue" href="">More About Us</a>
+                  <a class="read-more-button blue" href="multi_speciality.php">More About Us</a>
                </div>
             </div>
          </div>
@@ -93,7 +93,7 @@
                <h3 class="h3-tit text-white" data-aos="fade-up" data-aos-duration="2000">TOP SPECIALITIES</h3>
                <div class="owl-carousel owl-theme top-speciality-slider" data-aos="fade-up" data-aos-duration="2600">
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="paediatrician.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Arthroscopy.png">
                         </div>
@@ -101,7 +101,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="pulmonology.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Pulmonology.png">
                         </div>
@@ -109,7 +109,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="anaesthesia.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Anaesthesiology.png">
                         </div>
@@ -117,7 +117,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="ortho.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Spinal-Surgeries.png">
                         </div>
@@ -125,7 +125,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="cardiologist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Cardiology.png">
                         </div>
@@ -133,7 +133,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="diabetology.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Diabetics.png">
                         </div>
@@ -141,7 +141,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="child_specialist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Paediatric.png">
                         </div>
@@ -149,7 +149,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="Neurologist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Neurology.png">
                         </div>
@@ -157,7 +157,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="">
                         <div class="spimgwrapper">
                            <img src="assets/images/ent-s.png">
                         </div>
@@ -165,7 +165,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="nephorologist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Nephrology.png">
                         </div>
@@ -173,7 +173,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="obstetrics.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Obstetrica-and-Gynaecology.png">
                         </div>
@@ -181,7 +181,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="physiotherapist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Physiotherapy.png">
                         </div>
@@ -189,7 +189,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="gastroenterologist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/gastroenterology.png">
                         </div>
@@ -197,7 +197,7 @@
                      </a>
                   </div>
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="trauma_specialist.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/trauma.png">
                         </div>
@@ -222,7 +222,7 @@
                   </div>
                   
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="kidney_transplant.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/kidney_transplate.png">
                         </div>
@@ -231,7 +231,7 @@
                   </div>
                   
                   <div class="item tss-wrapper">
-                     <a href="javascript:;">
+                     <a href="oral_maxillo.php">
                         <div class="spimgwrapper">
                            <img src="assets/images/Oral-and-maxillo.png">
                         </div>
