@@ -6,15 +6,16 @@
          <div class="position-relative">
             <div class="owl-carousel owl-theme home-main-slider">
                <div class="item">
-                  <img src="assets/images/banner_1.png">
-                  <div class="cover">
+                  <img src="assets/images/landing_banner.png">
+                  <div class="cover banner_1_cover">
                      <div class="banner-text">
-                        <h2>24 hrs Ambulance Services Available</h2>
+                        <h2>We <span>Care</span> For Your <span>Smile</span></h2>
+                        <h4>24 hrs Ambulance Services Available</h4>
                         <a href="tel:+919384814736" class="btn-style1 slide_from_left">+91 9384814736</a>
                      </div>
                   </div>
                </div>
-               <div class="item">
+               <!-- <div class="item">
                   <img src="assets/images/banner_2.png">
                   <div class="cover">
                      <div class="banner-text">
@@ -22,8 +23,17 @@
                         <a href="tel:+919384814740" class="btn-style1 slide_from_left">Contact us</a>
                      </div>
                   </div>
-               </div>
+               </div> -->
                <div class="item">
+                  <img src="assets/images/banner_4.png">
+                  <div class="cover banner_4_item">
+                     <div class="banner-text">
+                        <h2>Dengue Fever Treatment </h2>
+                        <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our experts</a>
+                     </div>
+                  </div>
+               </div>
+               <div class="item banner_3_item">
                   <img src="assets/images/banner_3.png">
                   <div class="cover">
                      <div class="banner-text">
@@ -33,18 +43,10 @@
                      </div>
                   </div>
                </div>
-               <div class="item">
-                  <img src="assets/images/banner_4.png">
-                  <div class="cover">
-                     <div class="banner-text">
-                        <h2>Dengue Fever Treatment </h2>
-                        <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our experts</a>
-                     </div>
-                  </div>
-               </div>
+               
                <div class="item">
                   <img src="assets/images/banner_5.png">
-                  <div class="cover">
+                  <div class="cover banner_5_cover">
                      <div class="banner-text">
                         <h2>Knee and Hip replacement</h2>
                         <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our experts</a>
@@ -574,7 +576,7 @@
          <i class="icon-pencil-squared" aria-hidden="true"></i> Enquire Now</a>
       <div class="contact-slide">
          <h3 class="title-sm">Let Our Experts Call You Back</h3>
-         <form action="" method="post">
+         <form action="enquire_mail.php" method="post">
             <div class="form-group">
                <input type="text" name="name" class="form-control" placeholder="Name" required>
             </div>
@@ -584,9 +586,7 @@
             <div class="form-group">
                <input type="text" name="number" class="form-control" placeholder="Phone" required>
             </div>
-            <div class="form-group">
-               <input type="text" name="url" class="form-control" placeholder="URL" style="display:none">
-            </div>
+            
             <div class="form-group">
                <textarea class="form-control" name="message" placeholder="Message" style="resize:none"
                   required></textarea>
@@ -616,7 +616,7 @@
          dots: false,
          nav: true,
          mouseDrag: false,
-         autoplay: true,
+         autoplay: false,
          animateOut: 'slideOutLeft',
          responsive: {
             0: {
@@ -816,7 +816,7 @@
            <!-- Author: FormBold Team -->
            <!-- Learn More: https://formbold.com -->
            <div class="formbold-form-wrapper">
-             <form action="https://formbold.com/s/FORM_ID" method="POST">
+             <form action="appointment_mail.php" method="POST">
                <div class="formbold-mb-5">
                  <label for="name" class="formbold-form-label"> Full Name </label>
                  <input
@@ -825,16 +825,18 @@
                    id="name"
                    placeholder="Full Name"
                    class="formbold-form-input"
+                   required
                  />
                </div>
                <div class="formbold-mb-5">
                  <label for="phone" class="formbold-form-label"> Phone Number </label>
                  <input
-                   type="text"
+                   type="number"
                    name="phone"
                    id="phone"
                    placeholder="Enter your phone number"
                    class="formbold-form-input"
+                   required
                  />
                </div>
                <div class="formbold-mb-5">
@@ -845,6 +847,7 @@
                    id="email"
                    placeholder="Enter your email"
                    class="formbold-form-input"
+                   required
                  />
                </div>
                <div class="flex flex-wrap formbold--mx-3">
@@ -856,6 +859,7 @@
                        name="date"
                        id="date"
                        class="formbold-form-input"
+                       required
                      />
                    </div>
                  </div>
@@ -867,6 +871,7 @@
                        name="time"
                        id="time"
                        class="formbold-form-input"
+                       required
                      />
                    </div>
                  </div>
@@ -881,10 +886,11 @@
                      <div class="formbold-mb-5">
                        <input
                          type="text"
-                         name="area"
-                         id="area"
-                         placeholder="Enter area"
+                         name="address"
+                         id="address"
+                         placeholder="Enter Address"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>
@@ -896,6 +902,7 @@
                          id="city"
                          placeholder="Enter city"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>
@@ -907,6 +914,7 @@
                          id="state"
                          placeholder="Enter state"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>
@@ -914,10 +922,11 @@
                      <div class="formbold-mb-5">
                        <input
                          type="text"
-                         name="post-code"
-                         id="post-code"
-                         placeholder="Post Code"
+                         name="post_code"
+                         id="post_code"
+                         placeholder="PinCode"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>

@@ -168,7 +168,7 @@
         <i class="icon-pencil-squared" aria-hidden="true"></i> Enquire Now</a>
     <div class="contact-slide">
         <h3 class="title-sm">Let Our Experts Call You Back</h3>
-        <form action="https://www.ravinahospital.com/backend.php" method="post">
+        <form action="enquire_mail.php" method="post">
             <div class="form-group">
                 <input type="text" name="name" class="form-control" placeholder="Name" required>
             </div>
@@ -232,7 +232,7 @@
            <!-- Author: FormBold Team -->
            <!-- Learn More: https://formbold.com -->
            <div class="formbold-form-wrapper">
-             <form action="https://formbold.com/s/FORM_ID" method="POST">
+             <form action="appointment_mail.php" method="POST">
                <div class="formbold-mb-5">
                  <label for="name" class="formbold-form-label"> Full Name </label>
                  <input
@@ -241,16 +241,18 @@
                    id="name"
                    placeholder="Full Name"
                    class="formbold-form-input"
+                   required
                  />
                </div>
                <div class="formbold-mb-5">
                  <label for="phone" class="formbold-form-label"> Phone Number </label>
                  <input
-                   type="text"
+                   type="number"
                    name="phone"
                    id="phone"
                    placeholder="Enter your phone number"
                    class="formbold-form-input"
+                   required
                  />
                </div>
                <div class="formbold-mb-5">
@@ -261,6 +263,7 @@
                    id="email"
                    placeholder="Enter your email"
                    class="formbold-form-input"
+                   required
                  />
                </div>
                <div class="flex flex-wrap formbold--mx-3">
@@ -272,6 +275,7 @@
                        name="date"
                        id="date"
                        class="formbold-form-input"
+                       required
                      />
                    </div>
                  </div>
@@ -283,6 +287,7 @@
                        name="time"
                        id="time"
                        class="formbold-form-input"
+                       required
                      />
                    </div>
                  </div>
@@ -297,10 +302,11 @@
                      <div class="formbold-mb-5">
                        <input
                          type="text"
-                         name="area"
-                         id="area"
-                         placeholder="Enter area"
+                         name="address"
+                         id="address"
+                         placeholder="Enter Address"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>
@@ -312,6 +318,7 @@
                          id="city"
                          placeholder="Enter city"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>
@@ -323,6 +330,7 @@
                          id="state"
                          placeholder="Enter state"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>
@@ -330,10 +338,11 @@
                      <div class="formbold-mb-5">
                        <input
                          type="text"
-                         name="post-code"
-                         id="post-code"
-                         placeholder="Post Code"
+                         name="post_code"
+                         id="post_code"
+                         placeholder="PinCode"
                          class="formbold-form-input"
+                         required
                        />
                      </div>
                    </div>

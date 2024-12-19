@@ -1023,6 +1023,11 @@ content: "";
     line-height: 32px;
     text-align: center;
 }
+@media(max-width:1399px) and (min-width:1200px){
+    .inner_bantext h2 {
+        font-size: 40px;
+    }
+}
 .breadcrumb-menu {
     position: absolute;
     left: 0;

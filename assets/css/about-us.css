@@ -190,7 +190,10 @@
 	padding: 100px 0;
 }
 .overvalue_sec{
-	padding: 80px 0;
+	padding: 80px 0px 40px;
+}
+.health_update {
+	padding: 10px 0px 40px;
 }
 .overvalue_sec h4{
 	color: #383838;
