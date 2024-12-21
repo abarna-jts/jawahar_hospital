@@ -12,7 +12,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 footer{
-    background: #7a1414;
+    background: #0c0233;
     padding: 0;
     margin-top: -8px;
 }
@@ -37,7 +37,7 @@ a{
 }
 .logo-wrapper img{
     width: 100%;
-    max-width: 220px;
+    max-width: 100%;
 }
 .header-top {
 text-align: right;
@@ -211,8 +211,17 @@ footer .form-inline{
   opacity: 1;
   visibility: visible;
 }
+.footer_logo img{
+    width: 235px;
+}
+.footer_about p{
+    color: #fff;
+    text-align: justify;
+    font-size: 14px;
+    padding-right: 20px;
+}
 .footer_bottom{
-    background: #282828;
+    background: #0a0323;
     padding: 0px;
 }
 .footer_bottom p{
@@ -221,6 +230,7 @@ footer .form-inline{
     font-weight: 400;
     margin: 0;
     line-height: 50px;
+    text-align: end;
 }
 .footer_bottom{
     margin-top: 60px;
@@ -341,7 +351,16 @@ footer .form-inline{
     transform: rotate(0deg) translate3d(0, 0, 0);
   }
 }
-
+.qr_img{
+    width: 95px;
+    height: 115px;
+    padding: 9px 0px;
+}
+.footer_qr{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
 .trin-trin
 {
     animation-name: trin;
@@ -367,7 +386,7 @@ footer .container:before {
     content: "";
     width: 500px;
     height: 4px;
-    background: #7a1414;
+    background: #0c0233;
     display: block;
     margin-bottom: 10px;
     position: absolute;
@@ -1027,6 +1046,9 @@ content: "";
     .inner_bantext h2 {
         font-size: 40px;
     }
+    .header .menu > ul > li.last-child.emergency_cnt a {
+        padding: 10px;
+    }
 }
 .breadcrumb-menu {
     position: absolute;
@@ -1226,8 +1248,16 @@ footer .container:before{
 
 @media(max-width: 767.98px){
     footer {
-    background: #081839;
+    background: #0c0233;
     padding: 0;
+}
+.footer_qr {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.footer_bottom p {
+    text-align: center;
 }
 .ft_cntinfo {
     display: flex;

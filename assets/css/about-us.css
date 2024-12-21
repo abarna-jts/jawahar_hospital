@@ -226,7 +226,13 @@
 
 @media(max-width:  767.98px){
 	.anc-wrapper {
-    padding: 30px 0 10px;
+    padding: 1px 0 10px;
+}
+.anc-wrapper .col-md-3{
+	width: 50%;
+}
+.ocd-wrapper img {
+    margin-right: 0px;
 }
 .ocd-wrapper{
     margin-bottom: 20px;
@@ -250,7 +256,18 @@
     padding: 40px 0;
 }
 .abt-into-wrapper h3{
-	font-size: 22px;
+	font-size: 21px;
+}
+.dr_details .col-md-3{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.dr_heading{
+	text-align: center;
+}
+.dr_details h5{
+	text-align: center;
 }
 .ceo-img:before{
 	    position: absolute;

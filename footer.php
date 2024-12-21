@@ -9,7 +9,6 @@
                      <a href="tel:+919384814740">House Visits - +91 9384814740</a>
                      <a href="tel:+919384814737">Pharmacy - +91 9384814737</a>
                   </div>
-                  
                </div>
             </div>
             <div class="col-md-4">
@@ -21,7 +20,7 @@
             <div class="col-md-4">
                <div class="ft_cntinfo">
                   <span class="icon-wrapper" style="width: 165px;"><i class="ion ion-md-map"></i></span>
-                  <a href="javascript:;" style="font-size: 12px;"><span>Reach us</span>No.1, LUTHERAN CHURCH CROSS
+                  <a href="https://maps.app.goo.gl/RTxkj5RXp9tkw37v7" style="font-size: 12px;"><span>Reach us</span>No.1, LUTHERAN CHURCH CROSS
                      STREET, KADAPERI,
                      OFF GST ROAD, BEHIND BALAJI STORES, WEST TAMBARAM, CHENNAI-600 045.</a>
                </div>
@@ -29,6 +28,17 @@
          </div>
          <hr class="ft-hr">
          <div class="row">
+            <div class="col-md-3">
+               <div class="footer_logo">
+                  <img src="assets/images/logo.png" alt="">
+               </div>
+               <div class="footer_about">
+                  <p>Our Hospital, Tambaram's leading multi-speciality healthcare destination. With a commitment to 
+                     excellence, we offer a comprehensive range of medical services, combining the expertise of UK-trained 
+                     professionals and cutting-edge technology to deliver superior patient care.</p>
+               </div>
+
+            </div>
             <div class="col-md-3">
                <h3 class="ft-titile mb-4">Specialties</h3>
                <ul class="ft_menulist">
@@ -79,7 +89,7 @@
                  
                </ul>
             </div>
-            <div class="col-md-3">
+            <!-- <div class="col-md-3">
                <h3 class="ft-titile mb-4">Quick Links</h3>
                <ul class="ft_menulist">
                   <li><a href="#"><img src="assets/images/light-blue-next-arrow.svg"> Patient Guide</a></li>
@@ -88,7 +98,7 @@
                   <li><a href="camp_info.php"><img src="assets/images/light-blue-next-arrow.svg"> Camp Details</a></li>
                   <li><a href="contact.php"><img src="assets/images/light-blue-next-arrow.svg"> Contact Info</a></li>
                </ul>
-            </div>
+            </div> -->
          </div>
          <hr class="ft-hr mb-0">
          <div class="row">
@@ -104,7 +114,7 @@
             <!--      <button type="submit" class="btn btn-primary mb-2 btnfos-4">SUBMIT</button>-->
             <!--   </form>-->
             <!--</div>-->
-            <div class="col-md-12 pt-4">
+            <div class="col-md-5 pt-4">
                <h3 class="ft-titile  mb-3 text-center">FIND US ON</h3>
                <ul class="soc_media_list text-center">
                   <li>
@@ -124,12 +134,17 @@
 
                </ul>
             </div>
+            <div class="col-md-5 footer_qr">
+               <img src="assets/images/qr_code.png" alt="" class="qr_img">
+            </div>
          </div>
          <div class="row mt-4">
             <div class="col-md-12">
                <ul class="ft_menulist with-inline-block">
                   <li><a href="multi_speciality.php"><img src="assets/images/light-blue-next-arrow.svg"> ABOUT JAWAHAR</a></li>
-                  <li><a href="insurance-tie-ups.php"><img src="assets/images/light-blue-next-arrow.svg"> PATIENT CARE</a></li>
+                  <li><a href="accident_emergency.php"><img src="assets/images/light-blue-next-arrow.svg"> OUR SERVICES</a></li>
+                  <li><a href="camp_info.php"><img src="assets/images/light-blue-next-arrow.svg"> CAMP DETAILS</a></li>
+                  <li><a href="insurance-tie-ups.php"><img src="assets/images/light-blue-next-arrow.svg"> INSURANCE TIE-UPS</a></li>
                   <li><a href="doctors.php"><img src="assets/images/light-blue-next-arrow.svg"> OUR DOCTORS</a></li>
                   <li><a href="career.php"><img src="assets/images/light-blue-next-arrow.svg"> CAREER US</a></li>
                   <li><a href="contact.php"><img src="assets/images/light-blue-next-arrow.svg"> CONTACT US</a>
@@ -141,11 +156,11 @@
       <div class="footer_bottom" style="margin-top: 20px;">
          <div class="container">
             <div class="row">
-               <div class="col-md-8">
+               <div class="col-md-9">
                   <p>© 2023 Jawahar Hospitals | All Rights Reserved. Designed and Developed by <a target="_blank"
                         href="https://jorim.in/">Jorim Technology</a></p>
                </div>
-               <div class="col-md-4 text-right">
+               <div class="col-md-2 text-right">
                   <a id="back-to-top"><img src="assets/images/arrow-white-up.svg"></a>
                </div>
             </div>

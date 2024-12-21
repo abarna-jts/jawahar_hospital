@@ -75,6 +75,33 @@
       .tech_titile {
          color: #1c6125;
       }
+
+      @media(max-width:600px){
+         .testimonial_item {
+            display: block;
+         }
+         .testimonial {
+            width: 100%;
+            padding: 0px 20px;
+         }
+         .person_img::before {
+            display: none;
+         }
+         .person_img {
+            width: 100%;
+            height: 340px;
+         }
+         .testimonial h4{
+            font-size: 17px;
+         }
+         .testimonial p{
+            margin-bottom: 0rem;
+            text-align: justify;
+         }
+         .health_update .owl-carousel .owl-nav button {
+            top: 60% !important;
+         }
+      }
 </style>
 
 <link rel="stylesheet" type="text/css" href="assets/css/about-us.css">

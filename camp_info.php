@@ -42,7 +42,7 @@
                 </div>
                 <div class="breadcrumb-menu">
                     <ul>
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="javascript:;">Patient Guide</a></li>
                         <li class="active">Our Camp Details</li>
                     </ul>

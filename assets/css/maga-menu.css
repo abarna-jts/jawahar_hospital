@@ -408,6 +408,23 @@
         display: flex;
     }
 }
+@media(max-width:1399px) and (min-width:1200px){
+    .header .menu > ul > li .menu-column-2 {
+        min-width: 20rem;
+        max-width: 35rem;
+        left: 45% !important;
+        transform: translateX(-25%) !important;
+    }
+}
+@media (max-width:600px){
+    .header .menu > ul > li .menu-column-2 {
+        left: 25% !important;
+    }
+    .header .menu > ul > li .menu-column-3 {
+        left: 0px !important;
+        transform: translateX(0%) !important;
+    }
+}
 @media screen and (max-width: 1199.98px) {
 	.header .menu > ul > li.active{
 		border: none;

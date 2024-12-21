@@ -18,17 +18,6 @@
    <link rel="stylesheet" type="text/css" href="assets/css/ionicon.min.css">
    <link rel="stylesheet" type="text/css" href="assets/css/maga-menu.css">
    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
-
-
-
-
-
-
-
-
-
-
-
    <link rel="stylesheet" type="text/css" href="assets/css/home-style.css">
 </head>
 
@@ -61,6 +50,7 @@
                      <button type="button" class="menu-mobile-close"><i class="ion ion-ios-close"></i></button>
                   </div>
                   <ul class="menu-section">
+                     <li><a href="index.php">Home</a></li>
                      <li class="menu-item-has-children">
                         <a href="#">About Us <i class="ion ion-ios-arrow-down"></i></a>
                         <div class="menu-subs menu-column-1">
@@ -117,7 +107,8 @@
                                  <li><a href="gastroenterologist.php">Gastroenterologiest</a></li>
                                  <li><a href="trauma_specialist.php">Trauma</a></li>
                                  <li><a href="kidney_transplant.php">Kidney Transplant Surgeons</a></li>
-
+                                 <li><a href="cosmetic_surgery.php">Cosmetic-surgery</a></li>
+                                 <li><a href="ent_surgery.php">ENT Surgeons</a></li>
                               </ul>
                            </div>
                         </div>
@@ -157,7 +148,9 @@
 
                                  <li><a href="ecg.php">Echo/ECG</a></li>
 
+                                 <li><a href="deluxe_room.php">Deluxe Room</a></li>
 
+                                 <li><a href="pharmacy.php">Pharmacy</a></li>
 
                               </ul>
                            </div>
@@ -169,7 +162,9 @@
 
                                  <li><a href="ucg.php">UCG Special Studies</a></li>
 
+                                 <li><a href="dining_hall.php">Dining Hall</a></li>
 
+                                 <li><a href="icu.php">Intensive Care Unit(ICU)</a></li>
 
                               </ul>
                            </div>

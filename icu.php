@@ -6,6 +6,27 @@
     overflow: hidden;
     height: 346px;
 }
+.service-details-contact-info h5 {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 0 15px;
+}
+.service-details-contact-info p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    margin: 0;
+}
+.service-details-contact-info a {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px 0 0;
+}
+.service-details-contact-info {
+    padding: 25px 25px 25px;
+}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DRP84Q28NE"></script>
 <script>
@@ -23,13 +44,13 @@
       <div class="inner_banner" style="background-image: url(assets/images/facilities_banner.png);">
          <div class="container-fluid text-center">
             <div class="inner_bantext">
-               <h2>UCG Special Studies</h2>
+               <h2>Intensive Care Unit(ICU)</h2>
             </div>
             <div class="breadcrumb-menu">
                <ul>
                   <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Facilities</a></li>
-                  <li class="active">UCG Special Studies</li>
+                  <li class="active">Intensive Care Unit(ICU)</li>
                </ul>
             </div>
          </div>
@@ -41,7 +62,7 @@
          <div class="row">
 
             <div class="col-md-4">
-            <div class="sidebar">
+               <div class="sidebar">
                   <div class="widget widget-categories">
                      <h5 class="widget-title">Other Facilities</h5>
                      <ul>
@@ -70,27 +91,23 @@
                   <div class="hp_wrapper">
                      
                         <div class="blg_img">
-                           <img src="assets/images/ucg.png">
+                           <img src="assets/images/icu.png">
                         </div>
                         <div class="blog_details">
-                           <h4>UCG Special Studies</h4>
-                           <p>At Jawahar Hospital, we provide UCG (Ultracardiography) special studies to assess and monitor 
-                            heart health with precision. Our advanced imaging techniques offer the following benefits:</p>
-                           <ul>
-                              <li><strong>Detailed Heart Evaluation:</strong>UCG provides clear images of the heart’s structure and function, 
-                              helping detect abnormalities such as valve disorders, heart enlargement, or blood flow issues.</li>
-                              <li><strong>Non-Invasive and Safe:</strong>The procedure uses ultrasound waves, ensuring a painless 
-                              and risk-free experience for patients of all ages.</li>
-                              <li><strong>Real-Time Results: </strong>  Instant and precise results allow cardiologists to evaluate 
-                              heart function in real-time, ensuring timely diagnosis and care.</li>
-                              <li><strong>Accurate Diagnosis: </strong>Ideal for assessing heart performance, identifying cardiac
-                               conditions, and planning effective treatment strategies.</li>
-                           </ul>
-                           <p>With state-of-the-art technology and expert cardiologists, our UCG special studies offer comprehensive 
-                            cardiac assessments to ensure the best outcomes for heart health.</p>
-
-                           
+                            <h4>Intensive Care Unit (ICU) Facilities</h4>
+                            <p>At Jawahar Hospital, our state-of-the-art Intensive Care Unit (ICU) is designed to provide critically ill patients with advanced medical care, round-the-clock monitoring, and specialized attention to ensure the best possible outcomes.</p>
+                            <ul>
+                                <li><strong>Advanced Monitoring Systems:</strong> Equipped with cutting-edge equipment to continuously monitor vital signs, including heart rate, blood pressure, and oxygen levels.</li>
+                                <li><strong>Expert Critical Care Team:</strong> A highly skilled team of intensivists, nurses, and specialists providing personalized care for each patient.</li>
+                                <li><strong>24/7 Availability:</strong> Comprehensive care and monitoring are provided at all times to respond promptly to any critical needs.</li>
+                                <li><strong>Specialized Ventilation Support:</strong> High-end ventilators and respiratory support systems for patients with breathing difficulties.</li>
+                                
+                            </ul>
+                            <p>The ICU at Jawahar Hospital is committed to delivering compassionate, expert care in a highly controlled and supportive environment, ensuring the well-being of our most vulnerable patients.</p>
                         </div>
+
+
+
                   </div>
 
                </div>

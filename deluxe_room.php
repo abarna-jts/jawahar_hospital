@@ -6,6 +6,27 @@
     overflow: hidden;
     height: 346px;
 }
+.service-details-contact-info h5 {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 0 15px;
+}
+.service-details-contact-info p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+    margin: 0;
+}
+.service-details-contact-info a {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 15px 0 0;
+}
+.service-details-contact-info {
+    padding: 25px 25px 25px;
+}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DRP84Q28NE"></script>
 <script>
@@ -23,13 +44,13 @@
       <div class="inner_banner" style="background-image: url(assets/images/facilities_banner.png);">
          <div class="container-fluid text-center">
             <div class="inner_bantext">
-               <h2>UCG Special Studies</h2>
+               <h2>Deluxe Room</h2>
             </div>
             <div class="breadcrumb-menu">
                <ul>
                   <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Facilities</a></li>
-                  <li class="active">UCG Special Studies</li>
+                  <li class="active">Deluxe Room</li>
                </ul>
             </div>
          </div>
@@ -41,7 +62,7 @@
          <div class="row">
 
             <div class="col-md-4">
-            <div class="sidebar">
+               <div class="sidebar">
                   <div class="widget widget-categories">
                      <h5 class="widget-title">Other Facilities</h5>
                      <ul>
@@ -70,27 +91,21 @@
                   <div class="hp_wrapper">
                      
                         <div class="blg_img">
-                           <img src="assets/images/ucg.png">
+                           <img src="assets/images/deluxe_room.png">
                         </div>
                         <div class="blog_details">
-                           <h4>UCG Special Studies</h4>
-                           <p>At Jawahar Hospital, we provide UCG (Ultracardiography) special studies to assess and monitor 
-                            heart health with precision. Our advanced imaging techniques offer the following benefits:</p>
+                           <h4>Deluxe Room Facilities</h4>
+                           <p>At Jawahar Hospital, our Deluxe Rooms are thoughtfully designed to provide patients with a comfortable, safe, and serene healing environment, combining modern amenities with exceptional care.</p>
                            <ul>
-                              <li><strong>Detailed Heart Evaluation:</strong>UCG provides clear images of the heart’s structure and function, 
-                              helping detect abnormalities such as valve disorders, heart enlargement, or blood flow issues.</li>
-                              <li><strong>Non-Invasive and Safe:</strong>The procedure uses ultrasound waves, ensuring a painless 
-                              and risk-free experience for patients of all ages.</li>
-                              <li><strong>Real-Time Results: </strong>  Instant and precise results allow cardiologists to evaluate 
-                              heart function in real-time, ensuring timely diagnosis and care.</li>
-                              <li><strong>Accurate Diagnosis: </strong>Ideal for assessing heart performance, identifying cardiac
-                               conditions, and planning effective treatment strategies.</li>
+                              <li><strong>Spacious & Well-Equipped Rooms:</strong> Luxuriously designed with ample space, premium furnishings, and a calm ambiance to enhance patient recovery.</li>
+                              <li><strong>Private Bathroom Facilities:</strong> Attached, hygienic bathrooms with modern fittings to ensure comfort and convenience.</li>
+                              
+                              <li><strong>Personalized Nursing Care:</strong> Dedicated nursing staff to provide round-the-clock attention and ensure patient well-being.</li>
+                              <li><strong>Hygiene & Infection Control:</strong> Stringent cleanliness and sanitization protocols for a safe and healthy environment.</li>
                            </ul>
-                           <p>With state-of-the-art technology and expert cardiologists, our UCG special studies offer comprehensive 
-                            cardiac assessments to ensure the best outcomes for heart health.</p>
-
-                           
+                           <p>Our Deluxe Room facilities are tailored to make your stay at Jawahar Hospital as comfortable and stress-free as possible, ensuring you feel cared for every step of the way.</p>
                         </div>
+
                   </div>
 
                </div>

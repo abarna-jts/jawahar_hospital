@@ -6,10 +6,10 @@
          <div class="position-relative">
             <div class="owl-carousel owl-theme home-main-slider">
                <div class="item">
-                  <img src="assets/images/landing_banner.png">
+                  <img src="assets/images/landing_banner_1.png">
                   <div class="cover banner_1_cover">
                      <div class="banner-text">
-                        <h2>We <span>Care</span> For Your <span>Smile</span></h2>
+                        <h2>We <span>Care</span> For Your <span>Health</span></h2>
                         <h4>24 hrs Ambulance Services Available</h4>
                         <a href="tel:+919384814736" class="btn-style1 slide_from_left">+91 9384814736</a>
                      </div>
@@ -44,7 +44,7 @@
                   </div>
                </div>
                
-               <div class="item">
+               <!-- <div class="item">
                   <img src="assets/images/banner_5.png">
                   <div class="cover banner_5_cover">
                      <div class="banner-text">
@@ -52,7 +52,7 @@
                         <a href="tel:+919384814736" class="btn-style1 slide_from_left">Consult our experts</a>
                      </div>
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
 
@@ -494,27 +494,7 @@
          <div class="container-fluid">
             <span class="d-block mb-2 text-center">Avail Cashless Medical Services</span>
             <h2 class="text-center h3-tit mb-4 mb-md-5">OUR INSURANCE PARTNERS</h2>
-            <!-- <div class="owl-carousel owl-theme health_update_slider">
-               <div class="item hp_wrapper">
-                  
-               </div>
-               <div class="item hp_wrapper">
-                  
-               </div>
-               <div class="item hp_wrapper">
-                  
-               </div>
-               <div class="item hp_wrapper">
-                  
-               </div>
-               <div class="item hp_wrapper">
-                  
-               </div>
-               <div class="item hp_wrapper">
-                  
-               </div>
-
-            </div> -->
+            
 
             <div class="slider">
                <div class="slide-track">
@@ -571,7 +551,7 @@
    
 <?php include("footer.php"); ?>
 
-   <div class="contact-right clearfix hidden-xs">
+   <!-- <div class="contact-right clearfix hidden-xs">
       <a href="javaScript:void(0);" class="contact-btn  text-uppercase" id="flotenqform" onclick="enquire()">
          <i class="icon-pencil-squared" aria-hidden="true"></i> Enquire Now</a>
       <div class="contact-slide">
@@ -596,7 +576,7 @@
             </div>
          </form>
       </div>
-   </div>
+   </div> -->
    <script src="assets/js/jquery.min.js"></script>
    <script src="assets/js/bootstrap.min.js"></script>
    <script src="../cdn.jsdelivr.net/gh/michalsnik/aos%402.0.4/dist/aos.js"></script>
@@ -616,7 +596,7 @@
          dots: false,
          nav: true,
          mouseDrag: false,
-         autoplay: false,
+         autoplay: true,
          animateOut: 'slideOutLeft',
          responsive: {
             0: {

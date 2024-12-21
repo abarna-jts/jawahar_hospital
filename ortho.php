@@ -27,7 +27,7 @@
             </div>
             <div class="breadcrumb-menu">
                <ul>
-                  <li><a href="index-2.html">Home</a></li>
+                  <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Specialities</a></li>
                   <li class="active">Ortho Specialist</li>
                </ul>
@@ -41,32 +41,34 @@
          <div class="row">
 
             <div class="col-md-4">
-               <div class="sidebar">
-                  <div class="widget widget-categories">
-                     <h5 class="widget-title">Other Specialities</h5>
-                     <ul>
-                        <li><a href="paediatrician.php">Paediatrician <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="pulmonology.php">Pulmonologist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="anaesthesia.php">Anaesthesia <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="ortho.php">Ortho Specialist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="cardiologist.php">Cardiologist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="diabetology.php">Diabetologist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="child_specialist.php">Child Specialist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="Neurologist.php">Neurologists <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="general_surgeries.php">General Surgeries <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="joint-replacement.php">Joint Replacement<img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="nephorologist.php">Nephrologist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="obstetrics.php">Obstetrics &amp; Gynaecology <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="physiotherapist.php">Physiotherapist <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="oral_maxillo.php">Oral &amp; Maxillo Facial Surgeries <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="pulmonology_services.php">Pulmonology Services <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="gastroenterologist.php">Gastroenterologiest <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="trauma_specialist.php">Trauma <img src="assets/images/circle-next-arrow.svg"></a></li>
-                        <li><a href="kidney_transplant.php">Kidney Transplant Surgeons<img src="assets/images/circle-next-arrow.svg"></a></li>
-                     </ul>
-                  </div>
-                 
-               </div>
+            <div class="sidebar">
+                        <div class="widget widget-categories">
+                            <h5 class="widget-title">Other Specialities</h5>
+                            <ul>
+                                <li><a href="paediatrician.php">Paediatrician <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="pulmonology.php">Pulmonologist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="anaesthesia.php">Anaesthesia <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="ortho.php">Ortho Specialist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="cardiologist.php">Cardiologist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="diabetology.php">Diabetologist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="child_specialist.php">Child Specialist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="Neurologist.php">Neurologists <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="general_surgeries.php">General Surgeries <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="joint-replacement.php">Joint Replacement<img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="nephorologist.php">Nephrologist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="obstetrics.php">Obstetrics &amp; Gynaecology <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="physiotherapist.php">Physiotherapist <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="oral_maxillo.php">Oral &amp; Maxillo Facial Surgeries <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="pulmonology_services.php">Pulmonology Services <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="gastroenterologist.php">Gastroenterologiest <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="trauma_specialist.php">Trauma <img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="kidney_transplant.php">Kidney Transplant Surgeons<img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="cosmetic_surgery.php">Cosmetic-surgery<img src="assets/images/circle-next-arrow.svg"></a></li>
+                                <li><a href="ent_surgery.php">ENT Surgeons<img src="assets/images/circle-next-arrow.svg"></a></li>
+                            </ul>
+                        </div>
+
+                    </div>
             </div>
             <div class="col-md-8 scleft">
                <div class="service-content">

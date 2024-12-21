@@ -108,6 +108,18 @@
     align-items: flex-start;
     margin-bottom: 20px;
 }
+@media(max-width:600px){
+   .cntleft {
+    padding: 20px;
+    background: #ffe9e9;
+}
+.cntformwrapper {
+    padding: 20px;
+  }
+  .contactform {
+    padding: 40px 0 40px;
+}
+}
   </style>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DRP84Q28NE"></script>

@@ -27,7 +27,7 @@
             </div>
             <div class="breadcrumb-menu">
                <ul>
-                  <li><a href="index-2.html">Home</a></li>
+                  <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Facilities</a></li>
                   <li class="active">Doppler Studies</li>
                </ul>
@@ -51,6 +51,10 @@
                         <li><a href="Ultrasonogram.php">Ultrasonogram <img src="assets/images/circle-next-arrow.svg"></a></li>
                         <li><a href="doppler_studies.php">Doppler Studies <img src="assets/images/circle-next-arrow.svg"></a></li>
                         <li><a href="ucg.php">UCG Special Studies <img src="assets/images/circle-next-arrow.svg"></a></li>
+                        <li><a href="deluxe_room.php">Deluxe Room <img src="assets/images/circle-next-arrow.svg"></a></li>
+                        <li><a href="pharmacy.php">Pharmacy<img src="assets/images/circle-next-arrow.svg"></a></li>
+                        <li><a href="dining_hall.php">Dining Hall<img src="assets/images/circle-next-arrow.svg"></a></li>
+                        <li><a href="icu.php">Intensive Care Unit(ICU)<img src="assets/images/circle-next-arrow.svg"></a></li>
                      </ul>
                   </div>
                   <div class="service-details-contact-info">

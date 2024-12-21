@@ -62,6 +62,12 @@
     align-items: center;
     justify-content: center;
 }
+@media(max-width:600px){
+  .cntformwrapper {
+    padding: 20px;
+  }
+
+}
   </style>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DRP84Q28NE"></script>
