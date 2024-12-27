@@ -29,13 +29,13 @@
       <div class="inner_banner" style="background-image: url(assets/images/specialities_banner.png);">
          <div class="container-fluid text-center">
             <div class="inner_bantext">
-               <h2>Gastroenterologiest</h2>
+               <h2>Women Care</h2>
             </div>
             <div class="breadcrumb-menu">
                <ul>
                   <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Specialities</a></li>
-                  <li class="active">Gastroenterologiest</li>
+                  <li class="active">Women Care</li>
                </ul>
             </div>
          </div>
@@ -85,33 +85,23 @@
                   <div class="hp_wrapper">
                      
                         <div class="blg_img">
-                           <img src="assets/images/gasterologist.png">
+                           <img src="assets/images/women_care.png">
                         </div>
                         <div class="blog_details">
-                           <h4>Gastroenterologiest</h4>
-                           <p>At Jawahar Hospital, our Gastroenterology Department offers comprehensive care for digestive 
-                            system disorders. Our team of expert gastroenterologists specializes in diagnosing and treating
-                             conditions affecting the esophagus, stomach, intestines, liver, pancreas, and gallbladder, 
-                             ensuring optimal digestive health and well-being.</p>
+                           <h4>Women Care</h4>
+                           <p>At Jawahar Hospital, our Women Care Department is committed to addressing the unique healthcare needs of women at every stage of life. From menstrual health to pregnancy care and beyond, we provide personalized and compassionate support to ensure overall well-being and quality of life.</p>
                            <ul>
-                              <li><strong>Experienced Gastroenterologists:</strong>Our specialists provide expert care for 
-                              conditions such as acid reflux, irritable bowel syndrome (IBS), ulcers, and liver diseases.</li>
-                              <li><strong>Advanced Diagnostics:</strong>Equipped with cutting-edge tools like endoscopy,
-                               colonoscopy, ERCP, and advanced imaging for accurate diagnosis and treatment planning.</li>
-                              <li><strong>Comprehensive Treatment Options:</strong>We address a wide range of issues,
-                               including gastrointestinal bleeding, Crohn’s disease, ulcerative colitis, and
-                                pancreatitis, with tailored medical and surgical interventions.</li>
-                              <li><strong>Liver & Hepatology Services: </strong>Specialized care for hepatitis, fatty liver, 
-                              and other liver-related disorders through advanced diagnostic and therapeutic procedures.</li>
-                              <li><strong>Minimally Invasive Procedures:</strong>Offering advanced, minimally invasive 
-                              endoscopic treatments for faster recovery and minimal discomfort.</li>
+                              <li><strong>Menstrual Health:</strong> Expert care for managing period pain, irregular cycles, and other menstrual concerns with tailored treatments to improve comfort and health.</li>
+                              <li><strong>Pregnancy and Maternity Care:</strong> Comprehensive prenatal, antenatal, and postnatal care to ensure a safe and healthy pregnancy journey for both mother and baby.</li>
+                              <li><strong>Fertility Solutions:</strong> Advanced treatments for pregnancy delays, hormonal imbalances, and other reproductive health issues to support women in achieving their family goals.</li>
+                              <li><strong>Women's Mental Health:</strong> Specialized care for anxiety, obsessive-compulsive disorder (OCD), and other emotional challenges to promote mental well-being.</li>
+                              <li><strong>Gynecological Conditions:</strong> Diagnosis and treatment for issues like polycystic ovary syndrome (PCOS), endometriosis, and pelvic pain with state-of-the-art technology.</li>
+                              <li><strong>Preventive Care:</strong> Routine health screenings, including Pap smears, breast exams, and bone density tests, to detect and prevent potential health issues early.</li>
+                              <li><strong>Hormonal Health:</strong> Expertise in managing menopause symptoms, thyroid disorders, and other hormonal concerns with effective and personalized care plans.</li>
                            </ul>
-                           <p>At Jawahar Hospital, our Gastroenterology Department is committed to delivering world-class care, 
-                            helping patients overcome digestive challenges with expert guidance, cutting-edge
-                             technology, and compassionate support.</p>
-
-                           
+                           <p>At Jawahar Hospital, our Women Care Department is dedicated to empowering women with the highest standards of care, helping them lead healthy, fulfilling lives at every stage.</p>
                         </div>
+
                   </div>
 
                </div>

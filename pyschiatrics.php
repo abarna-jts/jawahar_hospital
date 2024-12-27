@@ -29,13 +29,13 @@
       <div class="inner_banner" style="background-image: url(assets/images/specialities_banner.png);">
          <div class="container-fluid text-center">
             <div class="inner_bantext">
-               <h2>Gastroenterologiest</h2>
+               <h2>Psychiatrics</h2>
             </div>
             <div class="breadcrumb-menu">
                <ul>
                   <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Specialities</a></li>
-                  <li class="active">Gastroenterologiest</li>
+                  <li class="active">Psychiatrics</li>
                </ul>
             </div>
          </div>
@@ -85,33 +85,22 @@
                   <div class="hp_wrapper">
                      
                         <div class="blg_img">
-                           <img src="assets/images/gasterologist.png">
+                           <img src="assets/images/psychology.png">
                         </div>
                         <div class="blog_details">
-                           <h4>Gastroenterologiest</h4>
-                           <p>At Jawahar Hospital, our Gastroenterology Department offers comprehensive care for digestive 
-                            system disorders. Our team of expert gastroenterologists specializes in diagnosing and treating
-                             conditions affecting the esophagus, stomach, intestines, liver, pancreas, and gallbladder, 
-                             ensuring optimal digestive health and well-being.</p>
+                           <h4>Psychiatry Specialties</h4>
+                           <p>At Jawahar Hospital, our Psychiatry Department is dedicated to promoting mental health and well-being through compassionate care and evidence-based treatments. Our experienced psychiatrists and mental health professionals provide comprehensive solutions to help patients overcome psychological challenges and improve their quality of life.</p>
                            <ul>
-                              <li><strong>Experienced Gastroenterologists:</strong>Our specialists provide expert care for 
-                              conditions such as acid reflux, irritable bowel syndrome (IBS), ulcers, and liver diseases.</li>
-                              <li><strong>Advanced Diagnostics:</strong>Equipped with cutting-edge tools like endoscopy,
-                               colonoscopy, ERCP, and advanced imaging for accurate diagnosis and treatment planning.</li>
-                              <li><strong>Comprehensive Treatment Options:</strong>We address a wide range of issues,
-                               including gastrointestinal bleeding, Crohn’s disease, ulcerative colitis, and
-                                pancreatitis, with tailored medical and surgical interventions.</li>
-                              <li><strong>Liver & Hepatology Services: </strong>Specialized care for hepatitis, fatty liver, 
-                              and other liver-related disorders through advanced diagnostic and therapeutic procedures.</li>
-                              <li><strong>Minimally Invasive Procedures:</strong>Offering advanced, minimally invasive 
-                              endoscopic treatments for faster recovery and minimal discomfort.</li>
+                              <li><strong>Expert Psychiatrists:</strong> Highly trained specialists in diagnosing and managing a wide range of mental health conditions, including anxiety, depression, bipolar disorder, and schizophrenia.</li>
+                              <li><strong>Personalized Treatment Plans:</strong> Tailored approaches that combine therapy, medication management, and lifestyle modifications to meet individual needs.</li>
+                              <li><strong>Child and Adolescent Psychiatry:</strong> Specialized care for younger patients addressing developmental, behavioral, and emotional challenges.</li>
+                              <li><strong>Advanced Therapies:</strong> Offering modern treatments, including cognitive-behavioral therapy (CBT), psychodynamic therapy, and supportive counseling for holistic care.</li>
+                              <li><strong>Substance Abuse and Addiction Care:</strong> Comprehensive programs to help patients recover from alcohol or drug dependence with ongoing support.</li>
+                              <li><strong>Stress and Trauma Management:</strong> Expertise in helping patients cope with stress, PTSD, and life transitions for better emotional resilience.</li>
                            </ul>
-                           <p>At Jawahar Hospital, our Gastroenterology Department is committed to delivering world-class care, 
-                            helping patients overcome digestive challenges with expert guidance, cutting-edge
-                             technology, and compassionate support.</p>
-
-                           
+                           <p>At Jawahar Hospital, our Psychiatry Department is committed to providing a safe and supportive environment where patients can heal, grow, and achieve mental wellness with expert care and compassion.</p>
                         </div>
+
                   </div>
 
                </div>

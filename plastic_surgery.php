@@ -29,13 +29,13 @@
         <div class="inner_banner" style="background-image: url(assets/images/specialities_banner.png);">
             <div class="container-fluid text-center">
                 <div class="inner_bantext">
-                    <h2>ENT Surgeons</h2>
+                    <h2>Plastic-surgery</h2>
                 </div>
                 <div class="breadcrumb-menu">
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="javascript:;">Specialities</a></li>
-                        <li class="active">ENT Surgeons</li>
+                        <li class="active">Plastic-surgery</li>
                     </ul>
                 </div>
             </div>
@@ -85,20 +85,21 @@
                         <div class="hp_wrapper">
 
                             <div class="blg_img">
-                                <img src="assets/images/ent_surgery.png">
+                                <img src="assets/images/cosmetic_surgery.jpg">
                             </div>
                             <div class="blog_details">
-                                <h4>ENT Surgeons</h4>
-                                <p>At Jawahar Hospital, our expert ENT (Ear, Nose, and Throat) surgeons are committed to providing comprehensive care for a wide range of ENT conditions. With advanced diagnostic tools and surgical expertise, we ensure effective treatments for patients of all ages.</p>
+                                <h4>Plastic Surgery Specialties</h4>
+                                <p>At Jawahar Hospital, our Plastic Surgery Department is dedicated to enhancing aesthetics and restoring functionality through advanced surgical and non-surgical techniques. With a team of experienced plastic surgeons and cutting-edge technology, we offer personalized care to help patients achieve their goals with confidence.</p>
                                 <ul>
-                                    <li><strong>Expert ENT Specialists:</strong> Highly skilled surgeons with extensive experience in diagnosing and treating complex ENT disorders.</li>
-                                    <li><strong>Advanced Surgical Procedures:</strong> Expertise in minimally invasive surgeries for ear, nose, throat, and head and neck conditions.</li>
-                                    <li><strong>Comprehensive Care:</strong> From common conditions like sinusitis and tonsillitis to specialized treatments for hearing loss and voice disorders.</li>
-                                    <li><strong>State-of-the-Art Technology:</strong> Equipped with the latest diagnostic and surgical tools for precise and effective treatments.</li>
-                                    <li><strong>Patient-Centered Approach:</strong> Personalized care plans designed to ensure comfort and successful outcomes for every patient.</li>
+                                    <li><strong>Expert Plastic Surgeons:</strong> Highly skilled specialists with extensive experience in aesthetic, reconstructive, and microsurgical procedures.</li>
+                                    <li><strong>Cosmetic Surgery Expertise:</strong> Offering procedures such as rhinoplasty, facelifts, liposuction, breast augmentation, and body contouring to enhance appearance.</li>
+                                    <li><strong>Reconstructive Surgeries:</strong> Specialized in restoring functionality and appearance for conditions like trauma injuries, burns, and congenital deformities.</li>
+                                    <li><strong>Minimally Invasive Techniques:</strong> Utilizing advanced methods to minimize scarring, reduce recovery time, and ensure natural-looking results.</li>
+                                    <li><strong>Comprehensive Post-Surgery Care:</strong> Personalized recovery plans, including physical therapy and follow-up support, to ensure long-term satisfaction.</li>
+                                    <li><strong>Non-Surgical Treatments:</strong> Providing modern solutions like Botox, fillers, and skin rejuvenation therapies for subtle yet effective results.</li>
                                 </ul>
-                                <p>At Jawahar Hospital, our ENT surgeons are dedicated to enhancing your quality of life by addressing all your ear, nose, and throat concerns with compassion and excellence.</p>
-                                </div>
+                                <p>At Jawahar Hospital, our Plastic Surgery Department combines precision, artistry, and compassion to help patients look and feel their best. We are committed to delivering exceptional care tailored to your unique needs and aspirations.</p>
+                            </div>
 
                         </div>
 

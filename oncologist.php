@@ -29,13 +29,13 @@
       <div class="inner_banner" style="background-image: url(assets/images/specialities_banner.png);">
          <div class="container-fluid text-center">
             <div class="inner_bantext">
-               <h2>Gastroenterologiest</h2>
+               <h2>Oncologist</h2>
             </div>
             <div class="breadcrumb-menu">
                <ul>
                   <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Specialities</a></li>
-                  <li class="active">Gastroenterologiest</li>
+                  <li class="active">Oncologist</li>
                </ul>
             </div>
          </div>
@@ -85,33 +85,22 @@
                   <div class="hp_wrapper">
                      
                         <div class="blg_img">
-                           <img src="assets/images/gasterologist.png">
+                           <img src="assets/images/oncologist.png">
                         </div>
                         <div class="blog_details">
-                           <h4>Gastroenterologiest</h4>
-                           <p>At Jawahar Hospital, our Gastroenterology Department offers comprehensive care for digestive 
-                            system disorders. Our team of expert gastroenterologists specializes in diagnosing and treating
-                             conditions affecting the esophagus, stomach, intestines, liver, pancreas, and gallbladder, 
-                             ensuring optimal digestive health and well-being.</p>
+                           <h4>Oncology Specialties</h4>
+                           <p>At Jawahar Hospital, our Oncology Department is dedicated to providing comprehensive care for patients with cancer. With a multidisciplinary approach, advanced technology, and compassionate care, we aim to deliver the best possible outcomes for our patients at every stage of their journey.</p>
                            <ul>
-                              <li><strong>Experienced Gastroenterologists:</strong>Our specialists provide expert care for 
-                              conditions such as acid reflux, irritable bowel syndrome (IBS), ulcers, and liver diseases.</li>
-                              <li><strong>Advanced Diagnostics:</strong>Equipped with cutting-edge tools like endoscopy,
-                               colonoscopy, ERCP, and advanced imaging for accurate diagnosis and treatment planning.</li>
-                              <li><strong>Comprehensive Treatment Options:</strong>We address a wide range of issues,
-                               including gastrointestinal bleeding, Crohn’s disease, ulcerative colitis, and
-                                pancreatitis, with tailored medical and surgical interventions.</li>
-                              <li><strong>Liver & Hepatology Services: </strong>Specialized care for hepatitis, fatty liver, 
-                              and other liver-related disorders through advanced diagnostic and therapeutic procedures.</li>
-                              <li><strong>Minimally Invasive Procedures:</strong>Offering advanced, minimally invasive 
-                              endoscopic treatments for faster recovery and minimal discomfort.</li>
+                              <li><strong>Expert Oncologists:</strong> A team of highly trained specialists in medical, surgical, and radiation oncology with extensive experience in cancer treatment.</li>
+                              <li><strong>Comprehensive Cancer Care:</strong> Diagnosis and treatment of all types of cancers, including breast, lung, prostate, gastrointestinal, and blood cancers.</li>
+                              <li><strong>Advanced Treatment Options:</strong> Offering the latest therapies such as chemotherapy, immunotherapy, targeted therapy, and radiation therapy for personalized care.</li>
+                              <li><strong>State-of-the-Art Technology:</strong> Equipped with modern diagnostic tools like PET-CT, MRI, and biopsy services to ensure precise and early detection.</li>
+                              <li><strong>Multidisciplinary Approach:</strong> Collaborative care involving oncologists, surgeons, radiologists, and nutritionists for holistic treatment plans.</li>
+                              <li><strong>Supportive Care Services:</strong> Providing palliative care, counseling, pain management, and rehabilitation programs to improve quality of life.</li>
                            </ul>
-                           <p>At Jawahar Hospital, our Gastroenterology Department is committed to delivering world-class care, 
-                            helping patients overcome digestive challenges with expert guidance, cutting-edge
-                             technology, and compassionate support.</p>
-
-                           
+                           <p>At Jawahar Hospital, our Oncology Department is committed to offering compassionate, cutting-edge cancer care with a focus on helping patients achieve better health and well-being.</p>
                         </div>
+
                   </div>
 
                </div>

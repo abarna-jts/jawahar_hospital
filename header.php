@@ -80,12 +80,11 @@
                            </div>
                            <div class="list-item">
                               <ul class="list-unstyled" style="border-bottom: none;">
-                                 <li><a href="diabetology.php" style="font-size: 13px;">Diabetologist</a>
-                                 </li>
+                                 <li><a href="diabetology.php" style="font-size: 13px;">Diabetologist</a></li>
                                  <li><a href="child_specialist.php">Child Specialist</a></li>
                                  <li><a href="Neurologist.php">Neurologists</a></li>
-                                 <li><a href="general_surgeries.php">General Surgeries</a></li>
                                  <li><a href="joint-replacement.php">Joint Replacement</a></li>
+                                 <li><a href="dermotology.php">Dermotology</a></li>
                               </ul>
                            </div>
                            <div class="list-item">
@@ -95,9 +94,8 @@
                                  <li><a href="obstetrics.php">Obstetrics &amp; Gynaecology</a>
                                  </li>
                                  <li><a href="physiotherapist.php">Physiotherapist</a></li>
-                                 <li><a href="oral_maxillo.php"
-                                       style="font-size: 13px;">Oral &amp; Maxillo Facial Surgeries</a></li>
-                                       <li><a href="pulmonology_services.php">Pulmonology Services</a></li>
+                                 <li><a href="oral_maxillo.php" style="font-size: 13px;">Oral &amp; Maxillo Facial Surgeries</a></li>
+                                 <li><a href="neuro_surgery.php">Neuro Surgery & Spinal Care</a></li>
 
                               </ul>
                            </div>
@@ -107,8 +105,17 @@
                                  <li><a href="gastroenterologist.php">Gastroenterologiest</a></li>
                                  <li><a href="trauma_specialist.php">Trauma</a></li>
                                  <li><a href="kidney_transplant.php">Kidney Transplant Surgeons</a></li>
-                                 <li><a href="cosmetic_surgery.php">Cosmetic-surgery</a></li>
+                                 <li><a href="plastic_surgery.php">Plastic-surgery</a></li>
                                  <li><a href="ent_surgery.php">ENT Surgeons</a></li>
+                              </ul>
+                           </div>
+                           <div class="list-item">
+                              <ul class="list-unstyled" style="border-bottom: none;">
+                                 
+                                 <li><a href="oncologist.php">Oncologist</a></li>
+                                 <li><a href="urology.php">Urology</a></li>
+                                 <li><a href="pyschiatrics.php">Psychiatrics</a></li>
+                                 <li><a href="women_care.php">Women Care</a></li>
                               </ul>
                            </div>
                         </div>

@@ -29,13 +29,13 @@
       <div class="inner_banner" style="background-image: url(assets/images/specialities_banner.png);">
          <div class="container-fluid text-center">
             <div class="inner_bantext">
-               <h2>Gastroenterologiest</h2>
+               <h2>Neuro Surgery & Spinal Care</h2>
             </div>
             <div class="breadcrumb-menu">
                <ul>
                   <li><a href="index.php">Home</a></li>
                   <li><a href="javascript:;">Specialities</a></li>
-                  <li class="active">Gastroenterologiest</li>
+                  <li class="active">Neuro Surgery & Spinal Care</li>
                </ul>
             </div>
          </div>
@@ -85,33 +85,22 @@
                   <div class="hp_wrapper">
                      
                         <div class="blg_img">
-                           <img src="assets/images/gasterologist.png">
+                           <img src="assets/images/neuro_surgery.png">
                         </div>
                         <div class="blog_details">
-                           <h4>Gastroenterologiest</h4>
-                           <p>At Jawahar Hospital, our Gastroenterology Department offers comprehensive care for digestive 
-                            system disorders. Our team of expert gastroenterologists specializes in diagnosing and treating
-                             conditions affecting the esophagus, stomach, intestines, liver, pancreas, and gallbladder, 
-                             ensuring optimal digestive health and well-being.</p>
+                           <h4>Neuro Surgery & Spinal Care</h4>
+                           <p>At Jawahar Hospital, our Neuro Surgery & Spinal Care Department is dedicated to diagnosing and treating complex neurological and spinal disorders. With a team of expert neurosurgeons and advanced technology, we provide comprehensive care to improve patients' quality of life and mobility.</p>
                            <ul>
-                              <li><strong>Experienced Gastroenterologists:</strong>Our specialists provide expert care for 
-                              conditions such as acid reflux, irritable bowel syndrome (IBS), ulcers, and liver diseases.</li>
-                              <li><strong>Advanced Diagnostics:</strong>Equipped with cutting-edge tools like endoscopy,
-                               colonoscopy, ERCP, and advanced imaging for accurate diagnosis and treatment planning.</li>
-                              <li><strong>Comprehensive Treatment Options:</strong>We address a wide range of issues,
-                               including gastrointestinal bleeding, Crohn’s disease, ulcerative colitis, and
-                                pancreatitis, with tailored medical and surgical interventions.</li>
-                              <li><strong>Liver & Hepatology Services: </strong>Specialized care for hepatitis, fatty liver, 
-                              and other liver-related disorders through advanced diagnostic and therapeutic procedures.</li>
-                              <li><strong>Minimally Invasive Procedures:</strong>Offering advanced, minimally invasive 
-                              endoscopic treatments for faster recovery and minimal discomfort.</li>
+                              <li><strong>Expert Neurosurgeons:</strong> Highly skilled specialists with extensive experience in treating brain, spine, and nervous system disorders.</li>
+                              <li><strong>Comprehensive Neurological Care:</strong> Management of conditions such as brain tumors, traumatic brain injuries, epilepsy, stroke, and neurovascular disorders.</li>
+                              <li><strong>Advanced Spine Care:</strong> Expertise in treating spinal injuries, herniated discs, scoliosis, degenerative spine disorders, and spinal tumors.</li>
+                              <li><strong>Minimally Invasive Surgery:</strong> Utilizing advanced techniques like endoscopic and robotic-assisted surgeries for faster recovery and reduced risks.</li>
+                              <li><strong>State-of-the-Art Technology:</strong> Equipped with modern diagnostic tools such as MRI, CT scans, and intraoperative imaging for precise diagnosis and treatment planning.</li>
+                              <li><strong>Personalized Rehabilitation:</strong> Post-surgery rehabilitation programs to help patients regain strength, mobility, and independence.</li>
                            </ul>
-                           <p>At Jawahar Hospital, our Gastroenterology Department is committed to delivering world-class care, 
-                            helping patients overcome digestive challenges with expert guidance, cutting-edge
-                             technology, and compassionate support.</p>
-
-                           
+                           <p>At Jawahar Hospital, we are committed to providing compassionate and world-class neuro and spinal care to help our patients overcome challenges and lead healthier lives.</p>
                         </div>
+
                   </div>
 
                </div>

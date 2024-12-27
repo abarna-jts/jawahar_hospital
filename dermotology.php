@@ -29,13 +29,13 @@
         <div class="inner_banner" style="background-image: url(assets/images/specialities_banner.png);">
             <div class="container-fluid text-center">
                 <div class="inner_bantext">
-                    <h2>ENT Surgeons</h2>
+                    <h2>Dermotology</h2>
                 </div>
                 <div class="breadcrumb-menu">
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="javascript:;">Specialities</a></li>
-                        <li class="active">ENT Surgeons</li>
+                        <li class="active">Dermotology</li>
                     </ul>
                 </div>
             </div>
@@ -85,20 +85,20 @@
                         <div class="hp_wrapper">
 
                             <div class="blg_img">
-                                <img src="assets/images/ent_surgery.png">
+                                <img src="assets/images/dermonology.png">
                             </div>
                             <div class="blog_details">
-                                <h4>ENT Surgeons</h4>
-                                <p>At Jawahar Hospital, our expert ENT (Ear, Nose, and Throat) surgeons are committed to providing comprehensive care for a wide range of ENT conditions. With advanced diagnostic tools and surgical expertise, we ensure effective treatments for patients of all ages.</p>
+                                <h4>Dermatology Specialties</h4>
+                                <p>At Jawahar Hospital, our Dermatology Department offers comprehensive care for all your skin, hair, and nail concerns. With a focus on advanced diagnostics and treatments, our experienced dermatologists are dedicated to ensuring the health and beauty of your skin.</p>
                                 <ul>
-                                    <li><strong>Expert ENT Specialists:</strong> Highly skilled surgeons with extensive experience in diagnosing and treating complex ENT disorders.</li>
-                                    <li><strong>Advanced Surgical Procedures:</strong> Expertise in minimally invasive surgeries for ear, nose, throat, and head and neck conditions.</li>
-                                    <li><strong>Comprehensive Care:</strong> From common conditions like sinusitis and tonsillitis to specialized treatments for hearing loss and voice disorders.</li>
-                                    <li><strong>State-of-the-Art Technology:</strong> Equipped with the latest diagnostic and surgical tools for precise and effective treatments.</li>
-                                    <li><strong>Patient-Centered Approach:</strong> Personalized care plans designed to ensure comfort and successful outcomes for every patient.</li>
+                                    <li><strong>Expert Dermatologists:</strong> A team of highly skilled professionals with expertise in medical, surgical, and cosmetic dermatology.</li>
+                                    <li><strong>Cutting-Edge Treatments:</strong> Advanced solutions like laser therapies, chemical peels, and phototherapy for effective results.</li>
+                                    <li><strong>Comprehensive Skin Care:</strong> Treatment for conditions like acne, eczema, psoriasis, and skin allergies with personalized approaches.</li>
+                                    <li><strong>Cosmetic Dermatology Services:</strong> Specialized procedures such as Botox, fillers, skin rejuvenation, and anti-aging treatments.</li>
+                                    <li><strong>Preventive Care:</strong> Skin cancer screenings and education on maintaining healthy skin for long-term wellness.</li>
                                 </ul>
-                                <p>At Jawahar Hospital, our ENT surgeons are dedicated to enhancing your quality of life by addressing all your ear, nose, and throat concerns with compassion and excellence.</p>
-                                </div>
+                                <p>At Jawahar Hospital, we are committed to delivering exceptional dermatological care with compassion, precision, and the latest advancements in the field to help you look and feel your best.</p>
+                            </div>
 
                         </div>
 
