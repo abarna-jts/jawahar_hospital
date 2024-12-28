@@ -5,9 +5,13 @@
                <div class="ft_cntinfo">
                   <span class="icon-wrapper"><i class="ion ion-md-call"></i></span>
                   <div class="call-item">
-                     <a href="tel:+919384814736"><span>Call us at</span>Reception - +91 9384814736</a>
-                     <a href="tel:+919384814740">House Visits - +91 9384814740</a>
-                     <a href="tel:+919384814737">Pharmacy - +91 9384814737</a>
+                     <a href="tel:+919384814736"><span>Call us at</span>Reception - 9384814736, 9940658703, </a>
+                     <a href="tel:+919940658703"></a>
+                     <a href="tel:044-46040119">044 - 46040119, 22418060/70</a>
+                     <a href="tel:+919384814737">Pharmacy - 9384814737</a>
+                     <a href="tel:+919384814738">Lab & Scan - 9384814738</a>
+                     <a href="tel:+919384814739">Insurance - 9384814739</a>
+                     <a href="tel:+919384814740">House Visits - 9384814740</a>
                   </div>
                </div>
             </div>
@@ -17,12 +21,12 @@
                   <a href="javascript:;"><span>Write us at</span>contact@jawaharhospital.com</a>
                </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
                <div class="ft_cntinfo">
-                  <span class="icon-wrapper" style="width: 165px;"><i class="ion ion-md-map"></i></span>
+                  <span class="icon-wrapper" style="width: 100%;"><i class="ion ion-md-map"></i></span>
                   <a href="https://maps.app.goo.gl/RTxkj5RXp9tkw37v7" style="font-size: 12px;"><span>Reach us</span>No.1, LUTHERAN CHURCH CROSS
                      STREET, KADAPERI,
-                     OFF GST ROAD, BEHIND BALAJI STORES, WEST TAMBARAM, CHENNAI-600 045.</a>
+                     OFF GST ROAD, BEHIND BALAJI STORES, WEST TAMBARAM,<br> CHENNAI-600 045.</a>
                </div>
             </div>
          </div>

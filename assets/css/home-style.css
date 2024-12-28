@@ -469,13 +469,17 @@
   font-weight: 500;
   text-transform: uppercase;
 }
+.hp-sec6 .container-fluid{
+  padding-right: 0%;
+  padding-left: 0%;
+}
 
 .hp-sec4 {
   background-color: #FFF;
   background-image: url(../images/cta_graphic.svg);
   background-size: cover;
   background-position: bottom;
-  padding-top: 450px;
+  padding-top: 390px;
   position: relative;
   padding-bottom: 80px;
   margin-bottom: -2px;
@@ -1102,7 +1106,7 @@
 }
 
 .hp-sec10 {
-  padding: 80px 0 0px;
+  padding: 40px 0 0px;
 }
 
 .ptestimonial-slider {
@@ -2115,17 +2119,29 @@
 }
 
 .ambulance_section {
-  margin: 100px 0px;
+  margin: 40px 0px;
 }
 
 .ambulance_section .call-us-amb {
-  background-color: #b92326;
-  background-image: url(../images/bg2.png);
+  background-color: #fcfcfc;
+  /* background-image: url(../images/bg2.png); */
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
 }
-
+.ambulance_section .call-us-amb::after {
+  content: "";
+  background-image: url(../images/cta_graphic-white.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-position: bottom left;
+  width: 400px;
+  z-index: -1;
+}
 .ambulance_section .row-flex {
   display: flex;
   justify-content: space-between;
@@ -2186,25 +2202,28 @@
 .ambulance_section .call-amb-box h2 {
   font-size: 45px;
   font-weight: 700;
-  color: #fff;
+  color: #ac0808;
   line-height: 48px;
   margin-top: -60px;
 }
 
 .ambulance_section .call-amb-box h3 {
-  color: #fff;
+  color: #ac0808;
   font-size: 28px;
   text-decoration: underline;
   font-weight: 300;
+  margin: 10px 0px;
 }
-
+.call-amb-box  p{
+  margin:20px 0px;
+}
 .ambulance_section .call-amb-box p a {
   display: inline-block;
-  background-color: #fff;
+  background-color: #ac0808;
   padding: 8px 30px 8px 10px;
   font-size: 26px;
   font-weight: 700;
-  color: #282828;
+  color: #fff;
   border-radius: 50px;
 }
 
