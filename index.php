@@ -323,7 +323,10 @@
                            <img src="assets/images/emergency-care.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Accident / Emergency Care</h5>
+                           <a href="accident_emergency.php">
+                              <h5>Accident / Emergency Care</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -331,7 +334,10 @@
                            <img src="assets/images/operation_theatre.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Twin Operation Theatre</h5>
+                           <a href="twin_operation.php">
+                              <h5>Twin Operation Theatre</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -339,7 +345,10 @@
                            <img src="assets/images/fracture_clinic.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>24 hrs Fracture Clinic</h5>
+                           <a href="fracture_clinic.php">
+                              <h5>24 hrs Fracture Clinic</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -347,7 +356,10 @@
                            <img src="assets/images/head_injury.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Head Injury Care/Poly Trauma</h5>
+                           <a href="Trauma.php">
+                              <h5>Head Injury Care/Poly Trauma</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -355,7 +367,10 @@
                            <img src="assets/images/kidney_stone.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Laser Kidney Stone Center</h5>
+                           <a href="kidney_stone.php">
+                              <h5>Laser Kidney Stone Center</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -363,7 +378,10 @@
                            <img src="assets/images/spinal_surgery.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Endoscopic Spinal Surgeries</h5>
+                           <a href="endoscopic.php">
+                              <h5>Endoscopic Spinal Surgeries</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -371,7 +389,10 @@
                            <img src="assets/images/laproscopic.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Laproscopic-key Hole Surgeries</h5>
+                           <a href="laproscopic.php">
+                              <h5>Laproscopic-key Hole Surgeries</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -379,7 +400,10 @@
                            <img src="assets/images/joint_replacement.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Joint Replacement Surgeries</h5>
+                           <a href="joint_replacement.php">
+                              <h5>Joint Replacement Surgeries</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -387,7 +411,10 @@
                            <img src="assets/images/androscopic.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Arthroscopy Surgeries</h5>
+                           <a href="arthroscopy_surgeries.php">
+                              <h5>Arthroscopy Surgeries</h5>
+                           </a>
+                           
                         </div>
                      </div>
                      <div class="item ass-wrapper">
@@ -395,7 +422,10 @@
                            <img src="assets/images/intramedullary.png">
                         </div>
                         <div class="awrt-text">
-                           <h5>Intramedullary nailing</h5>
+                           <a href="intramedullary_nailing.php">
+                              <h5>Intramedullary nailing</h5>
+                           </a>
+                           
                         </div>
                      </div>
                   </div>

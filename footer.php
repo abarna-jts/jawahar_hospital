@@ -86,6 +86,8 @@
                   <li><a href="Ultrasonogram.php"><img src="assets/images/light-blue-next-arrow.svg"> Ultrasonogram</a></li>
                   <li><a href="doppler_studies.php"><img src="assets/images/light-blue-next-arrow.svg"> Doppler Studies</a></li>
                   <li><a href="ucg.php"><img src="assets/images/light-blue-next-arrow.svg"> UCG Special Studies</a></li>
+                  <li><a href="pharmacy.php"><img src="assets/images/light-blue-next-arrow.svg"> Pharmacy</a></li>
+                  <li><a href="icu.php"><img src="assets/images/light-blue-next-arrow.svg"> Intensive Care Unit (ICU)</a></li>
                  
                </ul>
             </div>
